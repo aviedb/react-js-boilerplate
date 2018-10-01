@@ -1,6 +1,6 @@
 # react-js-boilerplate
 
-Ejected ReactJS using create-react-app. Integrated with node-sass and breakpoints for easier way to make responsive design
+ReactJS boilerplate using ejected create-react-app. Integrated with node-sass and breakpoints for easier way to make responsive design
 
 ## GETTING STARTED
 
