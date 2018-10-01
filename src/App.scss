@@ -1,0 +1,9 @@
+@import 'breakpoints';
+
+.lorem {
+  margin: 1rem;
+
+  @include breakpoint-small-down {
+    color: red;
+  }
+}
