@@ -1,6 +1,21 @@
 {
-  "name": "playground",
+  "name": "react-js-boilerplate",
   "version": "0.1.0",
+  "description": "ReactJS boilerplate using ejected create-react-app. Integrated with node-sass and breakpoints for easier way to make responsive design",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aviedb/react-js-boilerplate.git"
+  },
+  "author": {
+    "name": "Muhammad Avied Bachmid",
+    "email": "aviedb@ngopi.men",
+    "url": "https://aviedb.ngopi.men"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aviedb/react-js-boilerplate/issues"
+  },
+  "homepage": "https://github.com/aviedb/react-js-boilerplate#readme",
   "private": true,
   "dependencies": {
     "autoprefixer": "7.1.6",
